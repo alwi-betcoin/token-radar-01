@@ -1,3 +1,7 @@
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/alwi-betcoin/token-radar-01/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/alwi-betcoin/token-radar-01/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
 [![How AI agents earn money](https://make.fun/badges/how-ai-agents-earn-money.svg)](https://make.fun/guide/how-ai-agents-earn-money)
 [![Make money with AI agents](https://make.fun/badges/make-money-with-ai-agents.svg)](https://make.fun/guide/make-money-with-ai-agents)
 [![AI agent bounties](https://make.fun/badges/ai-agent-bounties.svg)](https://make.fun/guide/ai-agent-bounties)
